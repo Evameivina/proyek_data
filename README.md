@@ -15,5 +15,5 @@ pipenv shell
 pip install -r requirements.txt
 
 ## Menjalankan Aplikasi 
-
-streamlit run dashboard/dashboard.py
+[
+streamlit run dashboard/dashboard.py](https://proyekdata-evaa.streamlit.app/)
